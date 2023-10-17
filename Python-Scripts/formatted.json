@@ -1,0 +1,68 @@
+[
+    {
+        "guid": "44c35de4f6bf0c5b6f008dc79b434a3de65444cd",
+        "Title": "New \u2013 Amazon EC2 M2 Pro Mac Instances Built on Apple Silicon M2 Pro Mac Mini Computers",
+        "Link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-m2-pro-mac-instances-built-on-apple-silicon-m2-pro-mac-mini-computers/",
+        "Description": "Today, we are announcing the general availability of Amazon EC2 M2 Pro Mac instances. These instances deliver up to 35 percent faster performance over the existing M1 Mac instances when building and testing applications for Apple platforms. New EC2 M2 Pro Mac instances are powered by Apple M2 Pro Mac Mini computers featuring 12 core [\u2026]"
+    },
+    {
+        "guid": "8a8dbf5c7083cca1519f0502d44702094c90f6a1",
+        "Title": "New \u2013 NVMe Reservations for Amazon Elastic Block Store io2 Volumes",
+        "Link": "https://aws.amazon.com/blogs/aws/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/",
+        "Description": "Amazon Elastic Block Store (Amazon EBS) io2 and io2 Block Express volumes now support storage fencing using NVMe reservations. As I learned while writing this post, storage fencing is used to regulate access to storage for a compute or database cluster, ensuring that just one host in the cluster has permission to write to the [\u2026]"
+    },
+    {
+        "guid": "d1bcf2bd9f720f4423af24b67cf619a2cbec257c",
+        "Title": "AWS Weekly Roundup: C7i Instances, Knowledge Base for Amazon Bedrock, and More (Sept. 18, 2023)",
+        "Link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-c7i-instances-knowledge-base-for-amazon-bedrock-and-more-sept-18-2023/",
+        "Description": "While daylight is getting shorter in the Northern hemisphere, we\u2019ve got two new EC2 instance types optimized for compute and memory and many new capabilities for other services. Last week there was also the EMEA AWS Heroes Summit in Munich, an amazing day full of insights and passion. Here\u2019s a nice picture of the participants! [\u2026]"
+    },
+    {
+        "guid": "1364088e6dfe688a2aef712ce4bd05603087a126",
+        "Title": "Preview \u2013 Connect Foundation Models to Your Company Data Sources with Agents for Amazon Bedrock",
+        "Link": "https://aws.amazon.com/blogs/aws/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/",
+        "Description": "In July, we announced the preview of agents for Amazon Bedrock, a new capability for developers to create generative AI applications that complete tasks. Today, I\u2019m happy to introduce a new capability to securely connect foundation models (FMs) to your company data sources using agents. With a knowledge base, you can use agents to give [\u2026]"
+    },
+    {
+        "guid": "64de4acd73459b1274a4808233a3fb07d4637598",
+        "Title": "New \u2013 Amazon EC2 R7a Instances Powered By 4th Gen AMD EPYC Processors for Memory Optimized Workloads",
+        "Link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/",
+        "Description": "We launched the memory optimized Amazon EC2 R6a instances in July 2022 powered by 3rd Gen AMD EPYC (Milan) processors, running at frequencies up to 3.6 GHz. Many customers who run workloads that are dependent on x86 instructions, such as SAP, are looking for ways to optimize their cloud utilization. They\u2019re taking advantage of the [\u2026]"
+    },
+    {
+        "guid": "e1de18a127682dd7c4d5fdc0b14ca2c6dd79e1b2",
+        "Title": "AWS Weekly Roundup: R7iz Instances, Amazon Connect, CloudWatch Logs, and Lots More (Sept. 11, 2023)",
+        "Link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-r7iz-instances-amazon-connect-cloudwatch-logs-and-lots-more-sept-11-2023/",
+        "Description": "Looks like it is my turn once again to write the AWS Weekly Roundup. I wrote and published the first one on April 16, 2012 \u2014 just 4,165 short day ago! Last Week\u2019s Launches Here are some of the launches that caught my eye last week: R7iz Instances \u2013 Optimized for high CPU performance and [\u2026]"
+    },
+    {
+        "guid": "8ba74cddc223f444061c3b940056b7e5bf430c07",
+        "Title": "New Amazon EC2 R7iz Instances are Optimized for High CPU Performance, Memory-Intensive Workloads",
+        "Link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/",
+        "Description": "Today we\u2019re announcing general availability of the Amazon EC2 R7iz instances. R7iz instances are the fastest 4th Generation Intel Xeon Scalable-based (Sapphire Rapids) instances in the cloud with 3.9 GHz sustained all-core turbo frequency. R7iz instances are suitable for workloads where there\u2019s a requirement for more memory to process additional data, larger sizes of instances [\u2026]"
+    },
+    {
+        "guid": "191318f95fbfcb42c00d05fc4648b0a473270294",
+        "Title": "The newest AWS Heroes are here \u2013 September 2023",
+        "Link": "https://aws.amazon.com/blogs/aws/the-newest-aws-heroes-are-here-september-2023/",
+        "Description": "Each quarter, the AWS Heroes program recognizes technical enthusiasts who lift up the greater AWS community through various approaches. While these inspirational individuals are driven to knowledge share, they sometimes discover novel and fun ways of using technology, such as leveraging LEDs to create a magical display of holiday lights. Many are also contributing heavily [\u2026]"
+    },
+    {
+        "guid": "bbcc0023eaa53f35fd89db9349acde25fa3f6254",
+        "Title": "AWS End User Computing Innovation Day 2023:  Architecting End User Computing for Change and Agility",
+        "Link": "https://aws.amazon.com/blogs/aws/aws-end-user-computing-innovation-day-2023-architecting-end-user-computing-for-change-and-agility/",
+        "Description": "Join us on Wednesday, September 13, for a free-to-attend online event, AWS End User Computing Innovation Day 2023. AWS will stream the event simultaneously across multiple platforms, including LinkedIn Live, Twitter, YouTube, and Twitch. Adapting to a complex landscape shaped by return-to-o\ufb03ce mandates, pressure to migrate out of self-operated data centers, escalating security concerns, scarcity [\u2026]"
+    },
+    {
+        "guid": "b17a63568d9769bf55a6e0e7bf657f0b4f373478",
+        "Title": "How Vercel Shipped Cron Jobs in 2 Months Using Amazon EventBridge Scheduler",
+        "Link": "https://aws.amazon.com/blogs/aws/how-vercel-shipped-cron-jobs-in-2-months-using-amazon-eventbridge-scheduler/",
+        "Description": "Vercel implemented Cron Jobs using Amazon EventBridge Scheduler, enabling their customers to create, manage, and run scheduled tasks at scale. The adoption of this feature was rapid, reaching over 7 million weekly cron invocations within a few months of release. This article shows how they did it and how they handle the massive scale they\u2019re [\u2026]"
+    },
+    {
+        "guid": "1a569d832e6d0012825fad5a9dbc82223bec7711",
+        "Title": "AWS Weekly Roundup: Farewell EC2-Classic, EBS at 15 Years, and More (Sept. 4, 2023)",
+        "Link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-farewell-ec2-classic-ebs-at-15-years-and-more-sept-4-2023/",
+        "Description": "Last week, there was some great reading about Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Elastic Block Store (Amazon EBS) written by AWS tech leaders. Dr. Werner Vogels wrote Farewell EC2-Classic, it\u2019s been swell, celebrating the 17 years of loyal duty of the original version that started what we now know as cloud computing. [\u2026]"
+    }
+]

@@ -1,0 +1,39 @@
+file=/home/eurus/Documents/PracticeFiles/test
+
+
+
+trap "rm -f $file && echo $file deleted; exit" 0 2 15     # ";" used to seperate commands in trap
+
+
+
+echo "pid is $$"
+
+
+
+while (( COUNT < 10 ))
+
+
+
+do
+
+
+
+sleep 10
+
+
+
+(( COUNT ++ ))
+
+
+
+echo $COUNT
+
+
+
+done
+
+
+
+
+
+
